@@ -44,3 +44,4 @@ while True:
         break
     else:
         print("無效指令，請重新輸入。")
+        print("abc")
